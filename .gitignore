@@ -1,0 +1,15 @@
+datasets/
+output/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
